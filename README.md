@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ishan Tandon</h1>
-<h3 align="center">Deep Learning • Physics-Informed AI • Web Development 💡</h3>
+<h3 align="center">Deep Learning •RAG •Data Analysis • Web Development 💡</h3>
 
 <p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/> </p>
 
